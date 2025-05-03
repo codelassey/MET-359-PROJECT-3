@@ -3,8 +3,10 @@
 ## Project Overview
 This project is part of MET359 (Atmospheric Science Field Work) and focuses on analyzing precipitation trends over Ghana from 2000 to 2009 using climate data. The analysis includes identifying extreme precipitation events and visualizing spatial distributions using Python.
 
+
+
 ## Dataset
-- **Source**: The dataset used is `Africa_cru_data.nc`. [https://drive.google.com/file/d/1oJI2GUL3S4aPEzmtlaQb4tJ1LHhH9rM3/view?usp=share_link]
+- **Source**: The dataset used is `Africa_cru_data.nc`. You can download it [HERE](https://drive.google.com/file/d/1oJI2GUL3S4aPEzmtlaQb4tJ1LHhH9rM3/view?usp=share_link)
 - **Variable of Interest**: Precipitation (`pre`)
 - **Time Range**: 2000-2009
 - **Geographical Scope**: Ghana (Latitude: 4.5°N to 11.5°N, Longitude: -3.5°E to 1.5°E)
